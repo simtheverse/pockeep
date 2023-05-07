@@ -1,0 +1,51 @@
+name,expenseName,amount,category,recurringDay
+John,Rent,1000.00,Housing,1
+John,Groceries,300.00,Food,5
+John,Internet,50.00,Utilities,15
+John,Transportation,150.00,Transportation,10
+John,Entertainment,200.00,Entertainment,20
+John,Healthcare,100.00,Medical,25
+John,Subscriptions,50.00,Entertainment,2
+John,Dining Out,250.00,Food,12
+John,Utilities,100.00,Utilities,8
+John,Insurance,200.00,Insurance,18
+Jane,Rent,1200.00,Housing,1
+Jane,Groceries,250.00,Food,7
+Jane,Internet,50.00,Utilities,10
+Jane,Transportation,100.00,Transportation,5
+Jane,Entertainment,150.00,Entertainment,30
+Jane,Healthcare,50.00,Medical,20
+Jane,Subscriptions,30.00,Entertainment,1
+Jane,Dining Out,200.00,Food,15
+Jane,Utilities,150.00,Utilities,10
+Jane,Insurance,250.00,Insurance,25
+Emily,Rent,900.00,Housing,5
+Emily,Groceries,200.00,Food,1
+Emily,Internet,50.00,Utilities,15
+Emily,Transportation,150.00,Transportation,10
+Emily,Entertainment,100.00,Entertainment,20
+Emily,Healthcare,80.00,Medical,25
+Emily,Subscriptions,20.00,Entertainment,2
+Emily,Dining Out,150.00,Food,12
+Emily,Utilities,100.00,Utilities,8
+Emily,Insurance,150.00,Insurance,18
+Mark,Rent,800.00,Housing,1
+Mark,Groceries,150.00,Food,5
+Mark,Internet,50.00,Utilities,10
+Mark,Transportation,100.00,Transportation,15
+Mark,Entertainment,100.00,Entertainment,20
+Mark,Healthcare,70.00,Medical,25
+Mark,Subscriptions,15.00,Entertainment,2
+Mark,Dining Out,100.00,Food,8
+Mark,Utilities,100.00,Utilities,12
+Mark,Insurance,200.00,Insurance,18
+Sarah,Rent,1100.00,Housing,1
+Sarah,Groceries,200.00,Food,7
+Sarah,Internet,50.00,Utilities,15
+Sarah,Transportation,100.00,Transportation,10
+Sarah,Entertainment,150.00,Entertainment,20
+Sarah,Healthcare,80.00,Medical,25
+Sarah,Subscriptions,25.00,Entertainment,1
+Sarah,Dining Out,200.00,Food,15
+Sarah,Utilities,120.00,Utilities,10
+Sarah,Insurance,250.00,Insurance,25
