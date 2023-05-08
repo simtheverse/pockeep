@@ -5,13 +5,21 @@
   },
   "name": "pockeep",
   "description": "",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "add_expense.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "simtheverse",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simtheverse/pockeep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simtheverse/pockeep/issues"
+  },
+  "homepage": "https://github.com/simtheverse/pockeep#readme"
 }

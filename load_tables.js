@@ -110,6 +110,8 @@ async function loadFamilyMembersFromCSV() {
       await loadMonthlyExpensesFromCSV();
     } catch (error) {
       console.error('Error running loading scripts:', error);
+    } finally {
+      pool.end(); // Close the database connection
     }
   }
   
